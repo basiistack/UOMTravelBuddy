@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "299964355413",
+    "firebase_url": "https://uom-travel-buddy-default-rtdb.firebaseio.com",
+    "project_id": "uom-travel-buddy",
+    "storage_bucket": "uom-travel-buddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299964355413:android:1fffc1f98913509f4e15dc",
+        "android_client_info": {
+          "package_name": "com.shehzad.uom_travel_buddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDjjI2kKVFCOWVYowqDoKDtlov8MHvtvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
